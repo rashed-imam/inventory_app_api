@@ -25,7 +25,7 @@ SECRET_KEY = "w!vejh3yph%o3%0cdym8h5dd#mkue%@&c6d1slxgjax8821*_z"
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bms.planet9soft.com']
 
 
 # Application definition
